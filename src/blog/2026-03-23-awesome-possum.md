@@ -5,13 +5,17 @@ eleventyNavigation:
 ---
 As Eleventy [enters the Awesomeverse as Build Awesome](/blog/build-awesome/) and joins the esteemed ranks of both Font Awesome and Web Awesome, the possum is taking on more responsibility as well.
 
-That’s right, the new iteration of our beloved possum mascot will be representing the larger Awesomeverse of open source projects as well (though likely with a change of wardrobe)! [Puppeteer](https://pptr.dev/) isn’t just for headless browsers any more.
+That’s right, the new iteration of our beloved possum mascot will be representing the larger Awesomeverse of open source projects as well (complete with custom wardrobe)!
 
-<div style="display: inline-block; padding: 1em; border-radius: 1em; background-color: #e4e5ea; border: .75em solid #bdbfc8; box-shadow: -10px 10px 80px rgb(0 0 0 / 10%); max-width: 25em">
+<div style="display: flex; padding: 1em; border-radius: 1em; background-color: #e4e5ea; border: .75em solid #bdbfc8; box-shadow: -10px 10px 80px rgb(0 0 0 / 10%); max-width: 25em">
   <img src="/img/mascots/ba-didelphis-awesomenicus.svg" alt="The Awesome Possum" width="800">
 </div>
 
-You can read the history of our possum commissions:
+[Puppeteer](https://pptr.dev/) isn’t just for headless browsers any more.
+
+<p><img src="/img/mascots/puppet.jpg" alt="The Awesome Possum (as a furry puppet)" width="800" style="border-radius: 1em; max-width: 25em;"></p>
+
+You can read the history of our prior possum commissions:
 
 - [_November 2023_ from David Neal](/blog/mascot-david/)
 - [_October 2021_ from Geri Coady](/blog/new-mascot-from-geri-coady/)
